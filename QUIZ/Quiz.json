@@ -1,0 +1,32 @@
+[
+  {
+    "pytanie": "Który język służy do stylowania stron internetowych?",
+    "odpowiedzi": {
+      "A": "HTML",
+      "B": "CSS",
+      "C": "Java",
+      "D": "Python"
+    },
+    "poprawna": "B"
+  },
+  {
+    "pytanie": "Który z poniższych to język zapytań do baz danych?",
+    "odpowiedzi": {
+      "A": "SQL",
+      "B": "C#",
+      "C": "PHP",
+      "D": "JavaScript"
+    },
+    "poprawna": "A"
+  },
+  {
+    "pytanie": "Co oznacza skrót HTML?",
+    "odpowiedzi": {
+      "A": "Hyper Text Makeup Language",
+      "B": "High Text Machine Language",
+      "C": "Hyper Text Markup Language",
+      "D": "Home Tool Markup Language"
+    },
+    "poprawna": "C"
+  }
+]
